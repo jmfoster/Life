@@ -1,6 +1,6 @@
 # Life
 
-[See project overview in Psychonomics 2011 conference poster](https://github.com/jmfoster/Life/blob/master/Project_Overview.pdf)
+![Project Overview from Psychonomics 2011 conference poster](/Project_Overview.png)
 
 ## Project Goal
 This computational model explores analogical structure mapping and schema induction in the domain of Conway’s Game of Life. Life runs as a cellular automaton with hierarchical emergent structure. The goal of the model is to discover recurring patterns and object hierarchies.
@@ -24,4 +24,4 @@ The schema is added back into the worldgraph and is available for retrieval in f
 
 Simulations with the model have revealed the issue of schema evaporation, where retrieved schemas are refined by intersection discovery until their size reaches zero. Together with experimental evidence from Corral & Jones (2012), the schema evaporation issue suggests a need for schema elaboration in addition to schema refinement.
 
-Combining analogy and schema induction in this rich compositional domain results in discovery of many frequent but mostly useless schemas (see Figure for an example). Critically, this unsupervised model can only be guided by the analogies that are discovered, the quality of those analogies, and some notion of intrinsic coherence of the schema. Preliminary simulations have revealed a need for an additional mechanism to evaluate schemas. My [Analogical Reinforcement Learning project](https://github.com/jmfoster/arl) implements simulations with a model that includes such a guiding mechanism that learns to play tic-tac-toe (also see [Foster & Jones (2017)](http://arxiv.org/abs/1712.10070).
+Combining analogy and schema induction in this rich compositional domain results in discovery of many frequent but mostly useless schemas (see Figure for an example). Critically, this unsupervised model can only be guided by the analogies that are discovered, the quality of those analogies, and some notion of intrinsic coherence of the schema. Preliminary simulations have revealed a need for an additional mechanism to evaluate schemas. My [Analogical Reinforcement Learning project](https://github.com/jmfoster/arl) implements simulations with a model that includes such a guiding mechanism that learns to play tic-tac-toe (also see [Foster & Jones, 2017](http://arxiv.org/abs/1712.10070)).
