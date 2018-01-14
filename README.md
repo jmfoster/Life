@@ -1,9 +1,11 @@
 # Life
 
-![Project Overview from Psychonomics 2011 conference poster](/Project_Overview.png)
-
 ## Project Goal
 This computational model explores analogical structure mapping and schema induction in the domain of Conway’s Game of Life. Life runs as a cellular automaton with hierarchical emergent structure. The goal of the model is to discover recurring patterns and object hierarchies.
+
+
+## Project Overview from Psychonomics 2011 conference poster
+![Project Overview from Psychonomics 2011 conference poster](/Project_Overview.png)
 
 ## Model
 
